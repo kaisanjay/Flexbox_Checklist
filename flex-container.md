@@ -31,6 +31,7 @@
   
   
 - Flex-flow
+
   The `flex-flow` is a shorthand property which takes `flex-direction` and `Flex-wrap` values. Ever used the `border`
   shorthand property? `border: 1px solid red`. It's the same concept here. Multiple values declared in one line.
   Re-writing the code above would yield this:
@@ -41,6 +42,7 @@
   ```
   
 - Justify-content
+
   Life's really good with the flexbox model! If you still doubt that, the `justify-content` property would convince you.
   It may take on any of these 5 values:
   ```
